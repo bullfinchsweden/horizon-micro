@@ -1,6 +1,8 @@
 # Horizon Micro
 Horizon for the Micro text editor.
 
+<img width="133" height="123" alt="Horizon" src="https://github.com/user-attachments/assets/9e37e4a5-123a-40e6-9b93-a52133e4901a" /><br/>
+
 * [Micro text editor](https://micro-editor.github.io/)
 
 * [Horizon color scheme](https://horizontheme.netlify.app/)
