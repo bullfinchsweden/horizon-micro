@@ -1,7 +1,7 @@
 # Horizon Micro
 Horizon for the Micro text editor.
 
-<img width="110" height="102" alt="Horizon" src="https://github.com/user-attachments/assets/c25ee2ec-a78b-429e-a8d1-59fe97350f2b" /><br/>
+<img width="120" height="111" alt="Horizon" src="https://github.com/user-attachments/assets/b87b4fce-3823-408b-8f03-4f3dec32f558" /><br/>
 
 * [Micro text editor](https://micro-editor.github.io/)
 
