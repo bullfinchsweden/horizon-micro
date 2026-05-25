@@ -14,3 +14,5 @@ Place file in ~/.config/micro/colorschemes/ (create a new folder named colorsche
 Open the Micro text editor, press control+e and type "set colorscheme horizon" (without quotation marks) and press enter.
 
 Done.
+
+<img width="754" height="529" alt="HorizonMicro" src="https://github.com/user-attachments/assets/3102e844-dfe5-4072-aa98-299fce318089" /><br/>
