@@ -14,5 +14,3 @@ Place file in ~/.config/micro/colorschemes/ (create a new folder named colorsche
 Open the Micro text editor, press control+e and type "set colorscheme horizon" (without quotation marks) and press enter.
 
 Done.
-
-<img width="754" height="527" alt="KanagawaWaveMicro" src="https://github.com/user-attachments/assets/5a6cc60e-e191-41e8-a935-86f656648b5a" /><br/>
