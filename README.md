@@ -16,3 +16,5 @@ Open the Micro text editor, press control+e and type "set colorscheme horizon" (
 Done.
 
 <img width="754" height="529" alt="HorizonMicro" src="https://github.com/user-attachments/assets/3102e844-dfe5-4072-aa98-299fce318089" /><br/>
+
+<img width="754" height="528" alt="HorizonMicro2" src="https://github.com/user-attachments/assets/949a62e1-460d-43fe-938a-5a36b9f601ce" />
