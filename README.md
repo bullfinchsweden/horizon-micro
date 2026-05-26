@@ -7,7 +7,7 @@ Horizon for the Micro text editor.
 
 * [Horizon color scheme](https://horizontheme.netlify.app/)
 
-* [Horizon for Firefox](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Horizon-Themes/)
+* [Horizon for Firefox](https://addons.mozilla.org/sv-SE/firefox/collections/18694308/Horizon-Themes/)<br>
 
 Place file in ~/.config/micro/colorschemes/ (create a new folder named colorschemes if non-existing).
 
