@@ -1,4 +1,4 @@
-# Horizon Micro
+# Horizon Micro 🌅
 Horizon for the Micro text editor.
 
 <img src="Images/Micro.jpg"><br/>
